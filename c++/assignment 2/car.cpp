@@ -6,7 +6,6 @@ class car
  public:
  int car_id,car_release_year;
  string car_company_name,car_color,car_model;
- 
 };
 
 
